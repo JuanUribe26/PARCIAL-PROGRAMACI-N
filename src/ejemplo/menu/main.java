@@ -1,6 +1,7 @@
 
 package ejemplo.menu;
-
+//abstract parcial POO
+//Juan Pablo Uribe Quiroga
 import java.util.Scanner;
 
 public class main {
