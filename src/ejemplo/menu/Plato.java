@@ -14,7 +14,7 @@ public class Plato {
     }
 
     Plato(String pizza_, int i, int i0) {
-        throw new UnsupportedOperationException("Not supported yet.");
+        throw new UnsupportedOperationException("");
     }
 
     public String getNombre() {
