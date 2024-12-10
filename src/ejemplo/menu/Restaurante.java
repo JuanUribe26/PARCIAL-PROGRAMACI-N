@@ -1,5 +1,6 @@
 package ejemplo.menu;
-
+//abstract parcial POO
+//Juan Pablo Uribe Quiroga
 import java.util.ArrayList;
 
 public class Restaurante {
